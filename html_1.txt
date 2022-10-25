@@ -1,0 +1,6 @@
+Section 1 HTML:
+1). Allows you to place the items inside the container in one of this ways: 
+*row - default
+*row-reverse
+*column
+*column-reverse

@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: s;
+  align-items: center;
+  justify-content: space-around;
+  background-color: bisque;
+}
+
+.box1 {
+  background-color: palevioletred;
+}
+.box2 {
+  background-color: aquamarine;
+}
